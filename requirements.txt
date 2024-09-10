@@ -3,6 +3,3 @@ mmcv-full>=1.2.0
 scikit-image
 tensorboard
 yapf
-torch
-torchvision
-
